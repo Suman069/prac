@@ -7,6 +7,11 @@ public class SwapNumbers {
         System.out.println("num1 = " + num1);
         System.out.println("num2 = " + num2);
 
+	System.out.println("AAAAAAAAA");
+        System.out.println("BBBBBBBBBB");
+        System.out.println("CCCCCCCCCC");
+	
+
         
         int temp = num1;
         num1 = num2;
